@@ -1,2 +1,2 @@
 # Absenteeism
-This project is about the linear regression
+XYZ is a courier company. The human capital plays an important role in collection, transportation and delivery. The company is passing through genuine issue of Absenteeism. The aim of the project is to suggest the company that what change company should bring to reduce the number of absenteeism and how many losses every month can company project in 2011 if same trend of absenteeism continues. We would like to predict the hours of absent based on the predictor variables.
